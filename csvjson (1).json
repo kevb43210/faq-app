@@ -1,0 +1,442 @@
+[
+  {
+    "Question/Topic": "Please attach Organization chart for your company.",
+    "Response": "This can be found under in ADP Software",
+    "Category": "Company Overview",
+    "Tags": "",
+    "Source Document URL": "",
+    "Date Created": "",
+    "Last Modified": "",
+    "Question ID": 46
+  },
+  {
+    "Question/Topic": "What year was your organization established/How many years has your organization been in business?",
+    "Response": "Est. 2001 / 24 years",
+    "Category": "Company Overview",
+    "Tags": "Years",
+    "Source Document URL": "Irving Oil Questionnaire",
+    "Date Created": "13-Aug-25",
+    "Last Modified": "13-Aug-25",
+    "Question ID": 45
+  },
+  {
+    "Question/Topic": "Total Number of employees",
+    "Response": 150,
+    "Category": "Company Overview",
+    "Tags": "Employees, Personnel",
+    "Source Document URL": "Irving Oil Questionnaire",
+    "Date Created": "13-Aug-25",
+    "Last Modified": "13-Aug-25",
+    "Question ID": 43
+  },
+  {
+    "Question/Topic": "Provide resume and/or qualifications and responsibilities for each critical role identified in the embedded document.",
+    "Response": "Resumes are attached.  All key positions will be agreed to by customer prior.",
+    "Category": "Company Overview",
+    "Tags": "Resumes",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 15
+  },
+  {
+    "Question/Topic": "Please provide Contractor's previous experience in similar scopes, [Insert company here] or otherwise.",
+    "Response": "•\tCNRL Horizon Annual spring TAR’s 2017 – 2023  Contact: Blake Tancowny, Jeff White\n\n•\tCoop, Regina Annual spring TAR’s 2016 – 2023   Contact: Ryan Konecsni, Josh Kjersem\n\n•\tSuncor Firebag Spring 2022 - Contact: Bogdan Nyomtato\n\n•\tMeg Energy - Spring 2023 - Contact: John Bailey",
+    "Category": "Company Overview",
+    "Tags": "Experience, Past jobs",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 14
+  },
+  {
+    "Question/Topic": "Please provide information regarding Contractor's current commitment load for [insert year].",
+    "Response": "Altex will have the capacity to take on [Insert company here] for [insert year].  We will also have the ability to imbed planning \nresource(s) for [Insert company here] at the beginning of [insert year] and end of [insert year] (if needed).  The sooner we can firm \nup the resources needed for [Insert company here], we will be able to backfill other sites as needed to ensure that we \ncover all accounts.  You will receive experienced Altex personnel for critical roles such as planning.",
+    "Category": "Company Overview",
+    "Tags": "Commitments, Workload",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 13
+  },
+  {
+    "Question/Topic": "Shop Facilities",
+    "Response": "Our head office is in Edmonton which supports both the Shop Fabrication and Field Service teams.  Our main office and shop production is: \n \n6831 – 42nd Street NW, Edmonton, Alberta \n \nGoogle Maps here: https://goo.gl/maps/XHKSseujQc3v7fpk7\n\nAdditionally, we have two other locations across the street from our main shop - they support our Field Services and Machine Shop divisions.  We have 5 properties and 15 acres in total.\n\n•\tMain Office – 10,000 ft2 \n•\tField Office – 3,000 ft2 \n•\tMain Shop – 2 bays totally 70,000 ft2 with 110 T overhead crane lifting capacity. \n•\tMachine Shop – 10,000 ft2 with 30 T overhead crane lifting capacity. \n•\tMaintenance shop – 4,400 ft2 \n•\tWarehouse – 6,000 ft2 \n\nProduct Offerings: \n\n•\tShell & Tube Heat Exchangers \n  https://www.altexinc.com/shell-tube-heat-exchangers/\n•\tHelixchangers \n  https://www.altexinc.com/helixchangers/\n•\tSulphur Condensers \n  https://www.altexinc.com/sulphur-condensers/\n•\tWaste Heat Boilers \n  https://www.altexinc.com/waste-heat-boilers/\n•\tAir-Cooled Heat Exchangers \n  https://www.altexinc.com/air-cooled-exchangers/\n•\tWinterized Air-Cooled Exchangers \n  https://www.altexinc.com/winterized-recirculation/\n\n\n\n\nCapabilities: \n\n•\tMaterials - Carbon steel, Chrome-Moly, 300 & 400 series stainless steels, duplex, nickel-alloys, overlays, Copper-Nickel, brass, etc. \n•\tSpecs - TEMA, API 660, API 661 \n•\tCodes - ASME Section I, ASME Section VIII-Div.1 \n•\tWeight - Up to 250T+ \n•\tDiameters up to 20+ ft and Lengths up to 100+ ft \n•\tHigh pressure exchangers – CEU, DEU, diaphragm-gasket type, super-bolts\n \nAltex People Highlights: \n•\tOverall numbers of Altex personnel have peaked at over 1000+.\n•\t60 full-time office staff, including: \n- 10+ professional engineers \n- 10+ B.Eng. & technologists \n- Full-time welding engineer with Level III Inspection \n- Dedicated QC and Safety departments \n- In-house Thermal & Mechanical design engineering teams \n•\t100-150 production staff, including welders, fitters, machinists, laborers \n•\t750+ welders, fitters, labourers during peak spring turnaround season \n \nSome details about our key departments: \n\n•\tEngineering https://www.altexinc.com/engineering/\n•\tSupply Chain https://www.altexinc.com/supply-chain/\n•\tProject Management https://www.altexinc.com/project-management/\n•\tQuality Control - https://www.altexinc.com/quality-control/",
+    "Category": "Company Overview",
+    "Tags": "Overview, SCM, capabilities, people, products, shop",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 5
+  },
+  {
+    "Question/Topic": "Apprenticeship",
+    "Response": "At Altex, we strongly support the apprenticeship program, recognizing that new workers entering our industry are essential to our company’s growth. However, ensuring the safety of apprentices is a top priority, as they often face higher risks on job sites.\nTo address this, we collaborate closely with clients to meet both site-specific and Altex’s apprenticeship goals. We’ve implemented a robust \"green hands\" program to effectively manage apprentices' safety and skill development, providing them with the guidance and tools they need to succeed.\n\nOur commitment is reflected in our apprentice-to-journeyperson ratio, which averages 4:1 across the board.",
+    "Category": "Company Overview",
+    "Tags": "Apprenticeship, Programs",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 2
+  },
+  {
+    "Question/Topic": "Continuous Improvement",
+    "Response": "At Altex, we pride ourselves on being a solutions-driven company, tackling heat transfer equipment challenges with creativity and technical experience. Each project we undertake demands innovative problem-solving, often requiring new methods in engineering and fabrication. We leverage our extensive knowledge and expertise to meet the unique requirements of every customer, recognizing that exceptional service is not just a cost factor—it is the foundation for our clients' long-term profitability.\n\nOur approach empowers teams to collaborate directly with clients, always seeking smarter, more efficient ways to deliver results. Our operations are highly communicative, well-managed, and agile enough to adapt to change—a critical requirement in today’s dynamic environment. Every team member is committed to upholding the highest standards in engineering, fabrication, process, and risk management throughout the project lifecycle.\n\nWe offer comprehensive in-house capabilities, including engineering and design, experienced fabrication teams, highly skilled field service personnel, cutting-edge tools and technologies, and dedicated support teams to ensure seamless lifecycle support. \n\nOur in-house experts collaborate closely with clients to address heat transfer equipment issues and develop custom solutions tailored to their specific needs.  Our Project Managers collaborate with customer teams with heat exchangers being built in our shop while our execution leadership including Field Superintendents work closely with our customers site teams on turnaround and maintenance work.\n\nSome examples of continuous improvement innovations that customers have realized real benefits from are:\n\nInnovations and Achievements\n\nBuilding a Better Way to Do Things\nAltex has the most bundle pullers in Canada.  Altex has designed and fabricated new bundle pullers and grapplers that are fit for purpose that improve safety while significantly reducing the time required to pull bundles.  In addition, Altex has designed and fabricated tools that help with the bundle pull including various slides that assist with the removal of the bundle and bogie blocks that provide support for the bundle.\n\nTruck Mount Bundle Puller \n\nContinuous Improvement in Training Programs\nAltex has developed additional training for our manpower for critical tasks.  We need the craft that come from the Hall’s to be highly trained before they come to your site.  Our additional training focuses on critical tasks that tend to be the most technically complicated and can be the most safety critical tasks to customers.  These include:\n\nBundle Puller Operator Training\nBefore any craft are allowed to touch a customer’s bundle, they need to go through our in-house bundle pulling training program.  This includes:\n\n•\t10 pushes/10 pulls – with a trainer\n•\t5 pushes/5 pulls – no trainer, supervisor monitored\n\nWe keep track of their training in our Bundle Pull \nOperator booklet that tracks their work complete \nwith sign-off. We can request manpower from the\nHall with this \n\nTensioning Training\nIn addition to the training that craft receive at the Hall(s), Altex also provides enhanced technical training on tensioning to our field personnel.  Utilizing our own tensioning training skid, personnel can quantify the success of their tensioning using theoretical vs achieved bolt load and gasket compression.  This provides \n\nStreamlined Onboarding and Coordinator Support\nWe have made significant strides in improving our onboarding and project coordination processes. By enhancing office resources and support systems, we allow our field teams to focus on productive work at customer sites. Reducing non-productive time directly contributes to the success of our field operations and, ultimately, to our clients' satisfaction.  Our Field Onboarders and Project Coordinators follow the project from start to finish, providing our Field Supervision the ability to focus on the field work.",
+    "Category": "Company Overview",
+    "Tags": "Continuous Improvement, achievements, innovations",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 1
+  },
+  {
+    "Question/Topic": "Key Performance Indicators  Provide examples of KPIs you are currently reporting on, either internally or with another Owner-Client.",
+    "Response": "There are a number of KPI's that we would report on both internally within our site Team, and externally to clients.  We work with clients regularly to report on their specific project's KPI's and stats with action items/alterations included.\n\nThe intention is to use agreed upon KPI's as leading indicators for such critical outcomes such as safety, that may allow us to alter behaviors or conditions so that we can avoid hurting someone or damaging property.  We also use other KPI’s in a turnaround project to ensure that schedule, cost and quality objectives are met.  Data trends provide us with an early window looking into our progress to target and allows us to make adjustments earlier in the project so that the likelihood of a positive outcome is increased.  By talking with clients about roadblocks together, we can ensure that we work collaboratively together to achieve the project goals.\n\nSome of the examples of KPI's we have at similar turnarounds are:\n\n- Near miss reporting\n- Violations\n- Safety suggestions\n- H.I.C.C.U.P cards (field safety observations)\n- Equipment inspection cards\n- Productivity improvement suggestions\n- First Aids trends\n- Medical Aids/Lost Time trends\n- Safety meetings frequency\n- Tailgate meeting frequency\n- In[Insert company here]tion - ideas submitted by Altex to reduce total costs\n- Production KPI's -weld production rate/# welds\n- Scheduling KPI's - P6 milestones achieved versus goal, date projected estimate to complete\n- Cost KPI's - daily cost tracking, cost to complete estimate, capital tool tracker\n- Quality Assurance - weld failure rates, bolted closure completions\n- Costs - Budget adherence, cost to complete, timesheet/LEMS submission times",
+    "Category": "Health and Safety",
+    "Tags": "KPIs, safety",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 37
+  },
+  {
+    "Question/Topic": "Provide details of your worker competency certification process for the disciplines required to execute the scope defined in this RFP. Also include details of training required for all workers and your worker training record program.",
+    "Response": "Attached is the \"Supplier Training Matrix\" and an example of a site Competency check that would be executed by site leadership.\nRC Personnel\n\nTo ensure competent and qualified key field personnel, please provide resumes and references of your proposed HSE/Safety Specialist and Corporate HSSEQ (RC) Sponsor.\n\nHSE Group\n\nWe have attached resumes for our Safety Manager and for one of our Senior Safety Site Leaders.  The Altex personnel to be provided for site execution will be firmed up with [Insert company here] in early 2024.  We will submit resumes and fill out the site org chart with [Insert company here] approvals.\n\nWe have a number of safety specialists that work on large turnarounds and are calibrated to work proactively and productively with craft to help improve safety outcomes.",
+    "Category": "Health and Safety",
+    "Tags": "Personnel, Resume, labour resources",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 36
+  },
+  {
+    "Question/Topic": "Training and Competency",
+    "Response": "Competency\n\nTo support the Risk Assessment table, we have also included \"Hazard Assessment\" summaries for each of the 6 topics included in the Risk Assessment.  This is the working version of what would be used in the field for our craft, led by site execution leadership.\n\nTraining and Competency\n\nAltex utilizes the Building Trades union halls for craft.  We also have in-house supervision, QC, Safety and admin that would work at customer sites.  The benefit of maintaining in-house expertise for site leadership is that they understand not only the Altex way of doing things, but they learn through experience expectations that customer have.  This allows us to transfer knowledge from our in-house leadership to the craft who may have never worked for Altex or a specific customer before.\n\nIn addition to the in-house personnel, we also name hire specific site leadership (GF/FM/Welders/Bundle Operators) who have taken additional Altex training and have worked for us many times before.  This allows us to \"seed\" the Altex way of doing things with the green craft who may arrive at site with an increased risk of injury.\n\nWe track all certifications and courses when they are brought on with Altex.  We supplement the basic trades training and certifications with additional training such as bundle pulling.  There is a very specific and measured training process for a very technical subject such as bundle pulling.  We have a certification process for each skill that is needed for site.  In addition, the site leadership would have a competency process to check the actual working competency of a trained worker on a specific skill, with an actual demonstration of that skill in the field.  \n\nWe don't just assume that because an individual is trained in a specific skill, then they are competent.  They have to demonstrate competency in that skill before they are deemed as capable.\n\nWe identify \"green\" workers as workers who may be learning a skill or are not familiar with a site.  They are then ratio'd into a crew at an appropriate ratio, blended with a mentor and others that are skilled in a specific task that they are to learn.  This way we can care for newer workers and they can safely develop a new skill.  The development of apprentices is important to the future of Altex.\n\nAttachments:\n\n- Hazard ID Template\n- Task Hazard Assessment Template\n- Altex Risk Matrix\n- 6 Hazard Assessments for High Risk Activities\n- High Level Risk Assessment from [Insert company here]\n- Competency Site Evaluation Forms",
+    "Category": "Health and Safety",
+    "Tags": "Competency, Training, attachments, risk",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 35
+  },
+  {
+    "Question/Topic": "Green Hands Program",
+    "Response": "We understand that green (new) workers are at a higher risk of injury on the job due to inexperience. At Altex, we define “green” workers as individuals who are either learning a new skill or are unfamiliar with a specific site. To ensure their safety and development, foremen assess each worker’s experience level to determine whether additional support is required.\n\nGreen workers are then integrated into crews at an appropriate ratio, paired with mentors and experienced team members skilled in the tasks they need to learn. On certain client sites, green workers may also wear a green hardhat to signal their status, enabling others to provide additional support and guidance. This approach allows us to prioritize the safety and growth of new workers while fostering their skill development in a structured and supportive environment. The development of apprentices is critical to the future success of Altex.",
+    "Category": "Health and Safety",
+    "Tags": "New workers, Programs, guideance, support",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 3
+  },
+  {
+    "Question/Topic": "Performance Improvement",
+    "Response": "Altex is an engineering and solutions-driven company. Each project we undertake requires problem-solving and creativity to find the technical solution to heat transfer equipment challenges - solutions that often employ new methods or approaches to engineering and fabrication. We continually build on our knowledge and expertise to meet each customer’s unique requirements. Through this extensive experience, we recognize that service is more than just cost to production – it provides the foundation for our customer’s long-term profitability.\n\nWe empower our teams to work directly with clients and to always look for new ways to do things better. We have an operation which is communicative, well managed and can deal responsively to the potential for change, a requirement that clients often demand. Our personnel commit to a project following high standards in engineering, fabrication, process and risk management through the project life cycle.\n\n \nWe provide in-house engineering and design, experienced fabrication teams, skilled field service personnel, the latest tools and technology, and support teams to deliver life cycle support. Our OEM experts will work collaboration with the customer’s reliability teams to solve heat transfer equipment issues and develop custom solutions.",
+    "Category": "QC/QA",
+    "Tags": "Engineering, KPI, Performance",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 26
+  },
+  {
+    "Question/Topic": "QA/QC",
+    "Response": "QC Plan\n\nAltex will build a site specific QC plan based on the specific scope received.  An example of a QC plan is included in the attachment, \"Altex QC Turnover Package Sample\".  For further details about our industry leading QA/QC program, we have included Altex's  \"Altex QC Manual\" which is attached.\n\nDue to the type of work that we regularly execute, our “QC Program” is a very robust and refined program.  We have over 300 field weld procedures which provides us the flexibility to take on almost any field welding challenge.  \n\nWe work collaboratively with clients to manage the QC process.  It starts with the experienced QC personnel that we have on staff.  When needed, we bring back QC personnel that repeatedly work for Altex.  This reduces the length of time to learn our processes.",
+    "Category": "QC/QA",
+    "Tags": "Documentation, Planning, QA, QC",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 25
+  },
+  {
+    "Question/Topic": "Overview of Daily Activities",
+    "Response": "This is our safety leaderships bread and butter!  We ensure that the site leadership understands the duties when it comes to managing the field.  They are not alone in doing so though.  Our office Team that supports the site are a big part of their success.  When we get a new customer, a Project Coordinator, Onboarding and Admin are assigned from our office personnel.\n\nThey work with the Superintendent to assist and lead onboarding, deal with the halls, take care of a lot of the paperwork required and allow the site leadership to focus on the crews.\n\nThe Superintendent (as per the org chart) has a number of resources to draw from to ensure that all of the critical aspects of the project are being managed.  This includes his site Team and the office Team.  There are regular meetings to discuss all of the project aspects.\n\nBecause we have a template with existing processes in place of how to execute a large turnaround, we are able to hit the ground running.  Our key leadership has almost always, worked for Altex before.  They understand our processes and are familiar with the supports available to them.\n\nIn addition to the Project Coordinator/Onboarding/Admin Team, there is also key Altex Management leading:\n\n- QC\n- Safety\n- Field Operations\n\nThese departments are able to work to support the personnel that are on site in those departments.  Again, it helps when most of the personnel who join us have worked with Altex many times in the past.  This allows them to focus on the customer instead of time learning Altex systems and processes.\n\nAltex support systems are in place to support the site Team,  Our office personnel and management are in quick response mode during turnarounds.  Short notice, emergency work and supporting with additional resources/equipment are routine to Altex.\n\nSupport staff also include in-house engineering, materials management for supply of tubes and other materials and technical support.  All of these are in place to help support the field Team.\n\nThe manpower resources that we have are complimented by our shop resources and our in-house equipment/warehouse.  Altex has the largest inventory of bundle pullers in Canada!  \n\nLastly, our shop supplies some of the largest heat exchangers/air coolers and other vessels to the marketplace.  If a customer needs help with repairing a piece of equipment that requires shop support, we can take this on.  If new equipment is needed, we can also design something for our customer.  Having the in-house technical resources really provides support for the Field Team and our customers.",
+    "Category": "QC/QA",
+    "Tags": "Administration, Daily Activities, Operations, Organization, safety",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 24
+  },
+  {
+    "Question/Topic": "Worker Competancy",
+    "Response": "Competency\n\nAltex uses a starting point of being trained for a particular task.  Each trade will have their minimums for training and certification.  On top of that, Altex requires specific training/certification and demonstration of the skill to be deemed competent.  Attached is our field competency process and field competency checks.  The field \"checks\" are a key part of establishing competency.\n\nWe have these competency tracking forms/process for critical skills such as bundle pulling.  This is a skillset that takes time and experience to learn.  \n\nAs an example, with the Altex bundle pulling certification, before they are deemed \"competent\" they need to be involved with 30 bundle pulls.  They carry a small booklet which details all of the bundle pulls that they have been involved with which is signed off by the Superintendent.  Once they have completed 30, they are deemed competent by Altex.  \n\nThis is an extreme example, but highlights the criticality for this specific task.  Other tasks may only take one demonstration of that skill to be deemed competent.  See the Altex Blue Book Bundle Puller Trainee Program (front cover) attached.\n\nAs an example, the boilermakers come with:\n\n• ESC Fall Protection\n• ESC Confined Space Entry and Monitor\n• ESC Common Safety Orientation\n• Respiratory Fit Certifications (3M Quantitative)\n• CSTS 2020 Fundamentals\n• H2S Awareness\n• Audiometric Exam with Audiogram (newly added)\n\nWe then supplement this with specialized training and competency checks to ensure that we are putting the craft in a position to safely succeed.  Our field leadership leads the competency field reviews and captures the documents so we can track competencies from job to job.",
+    "Category": "QC/QA",
+    "Tags": "Competancy",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 18
+  },
+  {
+    "Question/Topic": "Key Performance Indicators",
+    "Response": "There are a number of KPI's that we would report on both internally within our site Team, and externally to clients.  We work with clients regularly to report on their specific project's KPI's and stats with action items/alterations included. \n \nThe intention is to use agreed upon KPI's as leading indicators for such critical outcomes such as safety, that may allow us to alter behaviors or conditions so that we can avoid hurting someone or damaging property.  We also use other KPI’s in a turnaround project to ensure that schedule, cost and quality objectives are met.  \n\nData trends provide us with an early window looking into our progress to target and allows us to make adjustments earlier in the project so that the likelihood of a positive outcome is increased.  By talking with clients about roadblocks together, we can ensure that we work collaboratively together to achieve the project goals. \n \nSome of the examples of KPI's we have at similar customers are: \n \n- Near miss reporting \n- Violations \n- Safety suggestions \n- H.I.C.C.U.P cards (field safety observations) \n- Equipment inspection cards \n- Productivity improvement suggestions \n- First Aids trends \n- Medical Aids/Lost Time trends \n- Safety meetings frequency \n- Tailgate meeting frequency \n- Innovation - ideas submitted by Altex to reduce total costs \n- Production KPI's -weld production rate/# welds \n- Scheduling KPI's - P6 milestones achieved vs goal, date to complete \n- Cost KPI's - daily cost tracking, cost to complete estimate, capital tool tracker \n- Quality Assurance - weld failure rates, bolted closure completions \n- Costs - Budget adherence, cost to complete, timesheet/LEMS submission times",
+    "Category": "QC/QA",
+    "Tags": "KPIs, improvements, safety",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 4
+  },
+  {
+    "Question/Topic": "Material Suppliers",
+    "Response": "Altex builds some of the largest and most complex heat exchangers, air coolers and vessels in Alberta.  We have well established supply chain that allows us to meet customer expectations on delivery of materials to support our fabrication efforts.\n\nThrough the years, Altex has learnt which materials to keep in house and which ones we can rely on suppliers to provide us the material we need in a timely fashion.\n\nWe base our in-house inventory decisions on clients needs and criticality of materials.  Altex maintains a large inventory of long lead time products and holds weekly meetings to discuss any changes needed to support clients.\n\nFor [Insert company here], we would work to plan any needed inventory based on historic lead times and commitment from vendors.  We typically have inventory in Edmonton for most materials to support our fabrication needs so this provides an added assurance to field customers.  We expect that the turnaround planning process will alert our materials planning group for any materials required to support [Insert company here].",
+    "Category": "SCM",
+    "Tags": "Materials, SCM, Suppliers",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 27
+  },
+  {
+    "Question/Topic": "Material Suppliers",
+    "Response": "Altex specializes in fabricating some of Alberta’s largest and most complex heat exchangers, air coolers, and vessels. Our well-established supply chain enables us to consistently meet customer expectations for the timely delivery of materials that support our fabrication efforts.\n\nOver the years, we have developed a strategic approach to managing materials, identifying which items are best kept in-house and which can be reliably sourced from our trusted suppliers. This allows us to maintain efficiency and ensure we meet critical project timelines.\n\nOur in-house inventory decisions are driven by client needs and the criticality of specific materials. To stay proactive, Altex maintains a significant inventory of long-lead-time items and holds weekly meetings to reassess and adjust inventory based on changing client requirements.\n\nAltex Purchasing have travelled to many material suppliers around the world to audit material suppliers products and commitments.  We source tubes and materials from around the world, providing customers with the options that they desire.",
+    "Category": "SCM",
+    "Tags": "Materials, Quality, SCM",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 6
+  },
+  {
+    "Question/Topic": "Memberships  Is CONTRACTOR a registered member with any government or organization such as the Canadian Council for Aboriginal Businesses (Canada), or Minority, Women and Native Owned Business Certification (WBE, MBE) in the USA?",
+    "Response": "Not currently.  We are evaluating becoming a CCAB member and working through the Progressive Aboriginal Relations (PAR) process.  Although we are currently not a CCAB member, we are evaluating the customer need to proceed as a member.\n\nIndigenous and local stakeholder engagement is very important to Altex. Our goal has always been to become part of the fabric of the communities in which we work.\n\nIn general, this means supporting local business suppliers, establishing community ties, and engaging the local workforce by offering meaningful employment and development opportunities. We believe this approach creates long term value for our business and for our customers who operate within the same communities.",
+    "Category": "Diversity",
+    "Tags": "Inclusion, Memberships",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 41
+  },
+  {
+    "Question/Topic": "Inclusion and Diversity  Does CONTRACTOR have Inclusion and Diversity Programs in Place? Please provide.",
+    "Response": "Yes we do.  Altex values diversity of all kinds and feels that this makes us a stronger organization.  \nOur \"Employee Relations Principles\" and \"Employment Principles\" are attached.",
+    "Category": "Diversity",
+    "Tags": "Employee relation principles, Inclusion, employment principles",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 39
+  },
+  {
+    "Question/Topic": "Engagement  [INSERT COMPANY HERE] Chemical shall at any time request CONTRACTOR to engage Associations or Nations mentioned in previous question above.  Is CONTRACTOR willing to engage with these Organizations, Indigenous and First Nations?",
+    "Response": "Yes.  We have personnel who have built partnership agreements with Indigenous communities in the regions \nwhere we work.  If Indigenous partnerships are important to [Insert company here], we can work with a [Insert company here] defined \ncommunity of interest collaboratively.",
+    "Category": "Diversity",
+    "Tags": "Engagement, Inclusion",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 40
+  },
+  {
+    "Question/Topic": "What categories of underrepresented groups does your company track based on employee self-identification and explain what your company is doing in order to increase their representation in your workforce?",
+    "Response": "We currently do not track the percent of our workforce that is under-represented in communities that we execute work.  Our labour comes from the union halls and they manage the programs that work to encourage minorities to join the trades.",
+    "Category": "Diversity",
+    "Tags": "Diversity, Inclusion",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 8
+  },
+  {
+    "Question/Topic": "In terms of understanding your Indigenous workforce, what is your company's:     • Combined # of full-time and permanent part time employees that self-identify as Indigenous     • Total # of full-time and permanent part time employees",
+    "Response": "We currently do not ask our employees to self-identify at this time.  While we always encourage minorities and Indigenous candidates to apply to Altex indirect positions, we do not request for employee's to self-identify during onboarding.   As for our direct craft labour, our shop and field labour is sourced through union Halls.  Each labour union has programs to encourage Indigenous personnel to join the various labour Unions, including \"Tradewinds to Success\".",
+    "Category": "Diversity",
+    "Tags": "Indigenous Practices",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 7
+  },
+  {
+    "Question/Topic": "Please confirm your company has a Risk Management (Assessment) and Risk Tolerance program from management level to workforce, including sub-contractors.  Please include a copy of your documentation, ie: program, processes and tools",
+    "Response": "Risk Management Program\n\nYes, We have developed our Risk Management Program over years of experience to provide high level guidance on the \"roadmap\" to a safe event for our personnel.  This also includes our  subcontractors.  We want our subs to be held to the same high safety standard that Altex has achieved.  To share with you some of our processes for risk management, we have attached our overall “Risk Management Process” as well as our guiding “Matrix” for your review.\n\nRisk Assessment Example\n\nWe have attached the Risk Assessment template complete with 6 examples.  This is a very important first step in our safety planning process.  By getting to understand the specific scope being executed, we can then fully understand the list of risks that we need to come up with a plan to manage.  This then allows us to share with our site leadership who can then develop specific actions and plans to mitigate or eliminate these risks from our craft.  This is a very important part of achieving a high level of safety performance.  We then take these plans and communicate the risks and plans to the craft in the field.  All plans may be altered or improved upon as conditions change or more information is gained.",
+    "Category": "Other",
+    "Tags": "Risk management assessment",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 34
+  },
+  {
+    "Question/Topic": "Sub-Contractor Safety Performance  •\tWhat is your company's process for qualifying, selecting and onboarding sub-contractors?   Provide a copy of your sub-contractor qualification and management program or processes.",
+    "Response": "Subcontractors Process for Working for Altex\n\nYes we do have a process for selecting and managing subcontractors.  As our subcontractors will be representing us on site, they need to be held to the same safety standard as Altex.  We are very selective when it comes to choosing a subcontractor (when required) to work along side of us on site.  Many times we select either the subcontractor that the customer may be using on site, or a subcontractor that we have used multiple times based on safety performance and cost.\n\nSubcontractors for TA\n\nWe don't expect to use any direct subs to execute the scope presented in the RFQ.  If we do need a sub, we will present their safety stats, their ISN number and any other information that [Insert company here] requires.  We also have internal processes to manage subs from a safety, quality, schedule and cost standpoint.\n\nThe following work will not be executed by Altex, nor subcontracted through Altex (unless site wants us to sub this work):\n\n- Scaffolding\n- Coatings/painting\n- Insulation\n- Valve repair (although we can remove valves)\n- NDE\n\nImbedded Subs\n\nWe typically work through imbedded subcontractors that have been approved already to work on site for services such as NDE and scaffolding.  This can also provide a price savings of avoiding mark-up on a sub.\n\nFor subs such as scaffolding, we will assign one person per crew to coordinate with the scaffolding lead to ensure that effective communication exists.  This helps keep the schedule moving and avoids delays.\n\nPlease find included in the attachment, Altex's subcontractor policy called \"Altex Approved Vendor Subcontractor Process QAP 4.01 P\".  Our policy speaks to how we manage subcontractors when we need them on a customer site.  Also see attached Altex's \"Contractor Management Code of Practice\" attached.\n\nAltex has the ability to take on specialty services that might normally be sub'd out such as:\n\n- Bolting/torquing/tensioning\n- Leak seal work (including ABSA leak boxes) including plugs and injections\n- Machining\n\nPlease refer to our brochure that details our abilities.",
+    "Category": "Other",
+    "Tags": "Subcontractors",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 32
+  },
+  {
+    "Question/Topic": "What is your company's process for qualifying, selecting and onboarding your new employees?  Provide your ISN registration number and Total Recordable Case Rate performance for the last 3 years.",
+    "Response": "Onboarding Process – New Employees\n\nAltex hires craft out of the union halls.  The craft  are supported by full time Altex personnel and Indirect personnel (such as QC, Safety, Admin).  These positions work for us in the field when we have work for them.  We have attached how we bring new employees onboard to work with Altex.  The \"Altex Onboarding Flow Chart\" shows what our process is to bring a new employee onboard.\n\n2.  ISN Registration #:  Altex Field Services (400-150254)\n\n3.  Total Recordable Case Rate\n\nAttached is Altex's case rate for the previous 3 years titled \"Altex Safety Stats - 3 Years\".  Details and corrective actions taken are also included.  Two additional files with 2023 stats are also included to show you up to date information.  We are proud of our safety record!",
+    "Category": "Other",
+    "Tags": "Onboarding, Planning, field projects, set-up",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 31
+  },
+  {
+    "Question/Topic": "Indirect to Direct - Please provide your indirect to direct ratios",
+    "Response": "Indirect Ratio\n\nOur org charts detail the following indirect ratios based on the definition of indirects/direct supports and directs:\n\nNot Including Direct Supports as part of Indirects:\n\n- AST1 - 11%\n- E2 - 21%\n\nIncluding \"Direct Supports\" as part of Indirects:\n\n- AST1 - 15%\n- E2 - 30%\n\n*based on total manhours\n\nNote - for both AST1 and E2, there is a significant number of Quality Inspectors included.  Once we have an opportunity (if awarded) to closely look at the job scopes, we may reduce the number of QC which may slightly impact this ratio.  Also note that the ratio for E2 is overall lower as in general, larger manpower events have the affect of diluting the overall indirect ratio somewhat.  Our ratio here is in-line with other similar large turnarounds with similar expected scope.\n\nIn the end, we work with all customers to deliver the size of the Team needed with the correct skillset and experience to meet and exceed the customers needs.  We always gain agreement with the customer on the number of directs and indirects in planning meetings leading up to the turnaround.  We also manage these resources during the event and ensure that the manpower is rightsized to support the directs that are needed.\n\nOne important note.  Altex also provides significant off-site office support to the on-site Team which are not included in the site ratio.\n\nTo show you who these support staff are, we have included these positions on the org chart (non-billable) that we have as a standard for all clients when we mobilize.  This Team supports our on-site Team with onboarding, logistics, project coordinator and management support.\n\nReview the onboarding flow chart that details our process and personnel in head office that supports our in-field Teams.",
+    "Category": "Other",
+    "Tags": "Planning, Ratios, labour resources, manhours",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 28
+  },
+  {
+    "Question/Topic": "Tracking Productivity and Performance",
+    "Response": "Altex is familiar with tracking various types of performance KPI’s on sites.  Some examples are:\n\n- Weld performance (inches of weld/# of welds)\n- Weld failure rate (as measured by QC/NDE)\n- Time on tools (%)\n- Safety performance (recordables)\n- Near misses/safety observations (#)",
+    "Category": "Other",
+    "Tags": "KPIs, Productivity",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 22
+  },
+  {
+    "Question/Topic": "Performance Management System",
+    "Response": "The tracking of performance management is typically via Excel spreadsheet on site.  Over time, Altex has developed performance tracking spreadsheets for cost, weld progress, and overall schedule.  Daily LEMS versus projected performance is a standard performance tracking method for Altex.",
+    "Category": "Other",
+    "Tags": "Management, Performance",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 23
+  },
+  {
+    "Question/Topic": "Planning and Scheduling",
+    "Response": "Altex's Superintendents are experts at planning turnarounds.  They are able to review scope drawings, go to site to estimate, build out manpower plans and execute the plan they created.  Altex is able to imbed a planning Superintendent to help plan the turnaround.  \n\nIn addition, Altex has scheduling resources full-time in our office.  If a full time site scheduler is needed during the turnaround for example, we could hire a site scheduler.  Or we may provide support remotely if this would meet the timing required, which may be a more cost effective option.  This can be discussed with site and an approach can be agreed upon based on the need/timing necessary.",
+    "Category": "Other",
+    "Tags": "Planning, Schedules, Turnaround",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 21
+  },
+  {
+    "Question/Topic": "Tooling",
+    "Response": "•\tWe have all of the necessary small tools to support our craft.\n•\tOur warehouse supports our field Teams and receives small tools, consumables, PPE and capital tool requests from the Project Superintendent.  Their staff then begins to fill the order based on delivery dates input.\n•\tOur warehouse has a process to receive back tools that should be out of service and repaired and either replace that tool or repair it.\n•\tWe feed the warehouse with regular manhour projections so that they can estimate tooling required.\n•\tAltex has a number of partners that we purchase tools and equipment from.\n•\tAltex has many of the capital tools required in-house.  These include bundle pullers, torqueing equipment, small cranes and other resources.  Other capital tools are rented from various vendors that we have agreements with.  Altex has the largest number of bundle pullers in Canada to support customers.",
+    "Category": "Other",
+    "Tags": "Maintenance, Tools",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 20
+  },
+  {
+    "Question/Topic": "Retaining employees",
+    "Response": "Altex has a long history of being attractive to work for as we specialize in the type of work that the unions want to execute.  In addition, we have a very strong compliment of LONG TERM Superintendents.  This stability helps bring crews to Altex.  Craft also appreciate the additional training that they are provided which helps their continued growth and development.\n\nIn addition to those points, we may also provide incentives for craft to work with Altex.  These may be safety awards/bonuses and project completion bonuses.  Simply treating our employees as valued individuals has allowed us to grow to the size we are.\n\nTypical bonuses are agreed to by the customer and are reflective of the overall industry workload at the time.  Additional steps that provide assurance of manpower:\n•\tAltex pays a premium to maintain long-term relationships with field execution.  This provides long-term employees and improved outcomes for customers.\n•\tSites can provide LOA instead of camp.  In the case of [Insert company here], we assume LOA so that will be attractive to a number of craft.\n•\tIn partnership with clients, we have offered additional incentives such as site completion bonuses (based on hours work with conditions) and other bonuses to attract talent during busy periods.",
+    "Category": "Other",
+    "Tags": "Full-time, Retaining employees, Superintendents",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 19
+  },
+  {
+    "Question/Topic": "Onboarding/transition/mobilization plans",
+    "Response": "Assuming you are the successful Contractor, outline your onboarding/transition/mobilization plans.  At a minimum, this should include the process for hiring and staffing, mobilizing to site and any additional [Insert company here] requirements.\nAltex Onboarding\nOur onboarding process is attached here.  It outlines our process upon award of an account.  In general, we assign a Team to [Insert company here].  This would first consist of a Planning Superintendent (likely same Superintendent that will execute), a Project Coordinator (from our office), and Onboarding Coordinate (from our office) and an Administrator (from our office).  Each of these supports have a role to play in bringing on new personnel, onboarding and supporting the on-site Team.  We would welcome a visit to Altex to meet a typical support Team!\n\nAttached is the process for hiring and onboarding called \"Altex Onboarding Flow Chart\".",
+    "Category": "Other",
+    "Tags": "Mobilization, Onboarding, Planning",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 17
+  },
+  {
+    "Question/Topic": "strongly supports apprenticeship programs.  Please ensure your crew mix has an adequate journeyman-apprentice ratio.  Please submit what the ratio is.",
+    "Response": "Apprenticeship\n\nAltex is a strong believer in the apprenticeship program as this vital for Altex's future.  It is important though to ensure that apprentices are kept safe, as they are typically at a higher risk on job sites.  We work with clients to ensure that we meet the apprenticeship goals that site/Altex has, and that we have the appropriate green hands program to manage their safety and skill development.\n\nOur average apprentice ratio overall is 4:1 JM to Apprentice.",
+    "Category": "Other",
+    "Tags": "Apprentice ratio, Apprenticeship",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 16
+  },
+  {
+    "Question/Topic": "Span of Control",
+    "Response": "Altex has metrics for span of control for all levels.  These have been developed and refined over years of experience.  In addition we utilize the Building Trade union metrics for span of controls such as apprentice ratios.\n\n- Green hands ratio (ensure to blend in a level of Green Hands at an appropriate level to reduce their risk of harm).\n- Superintendent to GF ratio (or Superintendent to FM ratio)\n- GF to FM ratio\n- FM to crew ratio\n- Apprentice ratio (4:1 JM:App)\n- Craft to timekeeper ratio (~1 timekeeper per 100)\n- Craft to safety personnel ratio (somewhat scope dependent)\n\nWhen we build the actual org chart, when we understand the details on the scope that we will be working on and we will make a proposal on our expected span of control/org chart for the turnaround.  The span of control is impacted by the experience of our in-house supervision, the number of apprentices and green hands and the type of work being executed.",
+    "Category": "Other",
+    "Tags": "Controls, Labour, Manpower",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 12
+  },
+  {
+    "Question/Topic": "Org Structure",
+    "Response": "Attached is a Turnaround org chart based on the manpower loading that we developed.  As this is more of a draft copy, once we get into the planning details, we will edit this for the scope that we will be provided.  The org chart details the typical on-site Team and the off-site support for a turnaround such as this.",
+    "Category": "Other",
+    "Tags": "Field, organization chart, preparation",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 11
+  },
+  {
+    "Question/Topic": "Manpower Plan",
+    "Response": "There are obviously a number of unknowns, specifically around scope (availability) that may impact the actual manpower versus this proposed plan.  Our proposed plan relates a typical Altex manpower plan and relays to you that we are capable of manning a large turnaround with several different trades, supported by Direct Supports and Indirects.  This is what Altex does!\n\nOur expectation is that as we will work collaboratively together during the planning process to refine the manpower plan further and optimize timing to arrive on site with appropriate numbers of craft/supports/indirects.  We understand the process of ramping up manpower as additional work fronts are made available (and ramping down as they are completed).  \n\nWe also understand the concern around manpower availability.  As we execute very large turnarounds like this, our history tells us that the risk to Altex for manpower is low.  This is due to being a preferred contractor who specialize in this type of equipment turnaround with the latest specialty tooling and equipment and the large base of execution personnel that we have working for Altex.  Our execution supervision are followed yearly by GF's and FM who continually take Altex jobs over other contractors.  We are fortunate to have a very experienced base of personnel to draw from, which pulls the best craft from the various Building Trades unions.\n\nAltex provides turnaround services for customers with craft exceeding 600 trades people, craft supports and indirects.  We work with clients on imbedded resources for planning as well.  We will work to develop an agreed upon plan for manpower loading and work to manage the numbers based on the scope availability with an imbedded Superintendent as a planner.\n\nManpower adjustments are forecast based on scope reviews (including found work) and progress to complete.  We work daily with our customers to ensure that we forecast manpower appropriately and adjust as necessary.  We will be working closely with [Insert company here] on our initial plan and once on site (if we are selected) what the daily and forecast plan looks like and adjust manpower accordingly.",
+    "Category": "Other",
+    "Tags": "Manpower, Organization, Planning",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 10
+  },
+  {
+    "Question/Topic": "Burden Overpayment",
+    "Response": "At the conclusion of the Work, Contractor will provide reconciliation on ALL overpayment(s) of Federal or Provincial burdens for each Worker.  The overpayment amount will be agreed to by the Parties and this amount shall be re-imbursed to [Insert company here].",
+    "Category": "Finances",
+    "Tags": "Burdens, Payment",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 29
+  },
+  {
+    "Question/Topic": "Sustainability  Does CONTRACTOR have a Sustainability Policy? Please provide.",
+    "Response": "For Altex, sustainability is about balancing economic success, environmental stewardship and social progress to benefit all our stakeholders.\n\nSustainability considerations cover how we design and manufacture products, what we offer customers, how we engage suppliers, how we assess risks and opportunities, and how we behave in the communities where we operate and towards one another, while striving to ensure the health, safety and security of our employees, contractors and others affected our activities.",
+    "Category": "Sustainability",
+    "Tags": "Sustainability",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 38
+  },
+  {
+    "Question/Topic": "Altex - Responsible Care Partner",
+    "Response": "Altex is committed to working with [Insert company here] to achieve a safety performance that allows all workers to go home safely after each shift.  As you can see from our stats, our safety performance is world-class.  We execute large 600+ craft projects in Western Canada with very complex scope at industrial sites while maintaining zero recordables.  We commit to working safely on your site.",
+    "Category": "Sustainability",
+    "Tags": "Responsibility, safety",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 30
+  },
+  {
+    "Question/Topic": "Does your company have a program that supports investing or giving in the communities in which you work through time and/or funds?",
+    "Response": "Altex routinely provides sponsorship for various community groups.  In addition, Altex personnel are encouraged to support local causes and support community initiatves.",
+    "Category": "Sustainability",
+    "Tags": "Community, Local, initiative",
+    "Source Document URL": "",
+    "Date Created": "07-Aug-25",
+    "Last Modified": "07-Aug-25",
+    "Question ID": 9
+  },
+  {
+    "Question/Topic": "Shop Services",
+    "Response": "One of the unique aspects that Altex can provide [Insert company here], is that we engineer, build and repair heat exchangers.  This is core to our business.  We have the ability to provide engineering and support services to [Insert company here] on short notice to help support our Field Team.\n\nPlease refer to our attached brochure that details our capabilities.  We also have the ability to provide additional manpower as needed using our shop if necessary.  This gives us the ability to be flexible on short notice and also give [Insert company here] the assurance that we will meet the manpower needs in 2025.",
+    "Category": "Products",
+    "Tags": "Shop capabilities, products, services",
+    "Source Document URL": "",
+    "Date Created": "08-Aug-25",
+    "Last Modified": "08-Aug-25",
+    "Question ID": 33
+  }
+]
